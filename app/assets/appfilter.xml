@@ -268,6 +268,8 @@
   <item component="ComponentInfo{com.flatter.app.kuafu/com.flatter.app.MainActivity}" drawable="lzllq" name="lanzoullq" />
   <item component="ComponentInfo{cn.lezhi.speedtest/cn.lezhi.speedtest.welcome.WelcomeActivity}" drawable="wsgj" name="Wsgj" />
   <item component="ComponentInfo{com.dirror.music/com.dirror.music.ui.activity.SplashActivity}" drawable="dso_music" name="Dso_music" />
+  <item component="ComponentInfo{com.xycz.simple_live/com.xycz.simple_live.MainActivity}" drawable="simple_live" name="Simple_Live" />
+  <item component="ComponentInfo{com.future.dream/com.someone.ui.element.traditional.page.splash.LauncherActivity}" drawable="apkhub" name="APKHUB" />
   <item component="ComponentInfo{com.beemdevelopment.aegis/com.beemdevelopment.aegis.ui.AuthActivity}" drawable="aegis_authenticator" name="Aegis Authenticator" />
   <item component="ComponentInfo{com.beemdevelopment.aegis/com.beemdevelopment.aegis.ui.MainActivity}" drawable="aegis_authenticator" name="Aegis Authenticator" />
   <item component="ComponentInfo{com.aeroinsta.android/com.aeroinsta.android.activity.MainTabActivity}" drawable="aeroinsta" name="AeroInsta" />
